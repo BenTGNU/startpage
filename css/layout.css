@@ -63,7 +63,7 @@ table {
 
 html, body {
 	height: 100%;
-	font-family: Roboto, Lato, Raleway, sans-serif;
+	font-family: "Liberation Sans", "Source Sans Pro", Noto, sans-serif;
 	font-weight: 300;
 	background-color: #fafafa;
 	-webkit-touch-callout: none;
